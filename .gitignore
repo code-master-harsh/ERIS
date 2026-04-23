@@ -1,3 +1,83 @@
+# ----------------------------
+# Python basics
+# ----------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ----------------------------
+# Virtual environments
+# ----------------------------
+.venv/
+venv/
+env/
+ENV/
+
+# ----------------------------
+# Jupyter notebooks
+# ----------------------------
+.ipynb_checkpoints/
+
+# ----------------------------
+# Logs & temp files
+# ----------------------------
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# ----------------------------
+# IDE / Editor
+# ----------------------------
+.vscode/
+.idea/
+
+# ----------------------------
+# OS files
+# ----------------------------
+Thumbs.db
+
+# ----------------------------
+# Environment variables
+# ----------------------------
+.env
+.env.*
+
+# ----------------------------
+# Build / distribution
+# ----------------------------
+build/
+dist/
+*.egg-info/
+
+# ----------------------------
+# ML / Large files (important for your project)
+# ----------------------------
+*.h5
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# ----------------------------
+# TensorFlow Lite models (optional decision)
+# ----------------------------
+# Uncomment if you DON'T want to track models
+# *.tflite
+
+# ----------------------------
+# ROS2 workspace build files
+# ----------------------------
+build/
+install/
+log/
+
+# ----------------------------
+# Misc
+# ----------------------------
+*.bak
+*.cache
+
 __pycache__/
 .env
 .DS_Store
