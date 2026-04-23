@@ -1,0 +1,1 @@
+/home/teaching/ros2_quad_ws/build/champ_msgs/rosidl_generator_c/champ_msgs/msg/detail/pid__struct.h

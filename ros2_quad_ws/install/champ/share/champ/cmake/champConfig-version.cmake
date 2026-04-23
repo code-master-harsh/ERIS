@@ -1,0 +1,1 @@
+/home/teaching/ros2_quad_ws/build/champ/ament_cmake_core/champConfig-version.cmake

@@ -1,0 +1,1 @@
+/home/teaching/ros2_quad_ws/build/champ_msgs/rosidl_generator_rs/champ_msgs/rust/src/msg.rs

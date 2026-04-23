@@ -1,0 +1,1 @@
+/home/teaching/ros2_quad_ws/build/go2_config/ament_cmake_core/go2_configConfig-version.cmake

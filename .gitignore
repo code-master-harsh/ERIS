@@ -1,0 +1,6 @@
+__pycache__/
+.env
+.DS_Store
+Stride_bot-main/STL_simulation/
+*.pt
+emotion_state.json

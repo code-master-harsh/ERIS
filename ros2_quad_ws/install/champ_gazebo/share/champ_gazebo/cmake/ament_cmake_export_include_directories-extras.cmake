@@ -1,0 +1,1 @@
+/home/teaching/ros2_quad_ws/build/champ_gazebo/ament_cmake_export_include_directories/ament_cmake_export_include_directories-extras.cmake

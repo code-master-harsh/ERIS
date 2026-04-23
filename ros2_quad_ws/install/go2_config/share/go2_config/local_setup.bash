@@ -1,0 +1,1 @@
+/home/teaching/ros2_quad_ws/build/go2_config/ament_cmake_environment_hooks/local_setup.bash

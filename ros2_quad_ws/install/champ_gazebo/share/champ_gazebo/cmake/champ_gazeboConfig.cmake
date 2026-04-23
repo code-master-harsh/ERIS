@@ -1,0 +1,1 @@
+/home/teaching/ros2_quad_ws/build/champ_gazebo/ament_cmake_core/champ_gazeboConfig.cmake
